@@ -1,4 +1,4 @@
-Meteor Rush Game
+#Meteor Rush Game
 
 Notes:
 When open project, set aspect ratio to 1080 x 1920
